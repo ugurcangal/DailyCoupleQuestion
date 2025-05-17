@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "653074284553",
+    "project_id": "dailycouplequestion",
+    "storage_bucket": "dailycouplequestion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653074284553:android:741f7423092934682f78d8",
+        "android_client_info": {
+          "package_name": "com.ugurcangal.dailycouplequestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Xp_SawwKh6_fQtm31bemVe8QIdU8oDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653074284553:android:560a634a926004012f78d8",
+        "android_client_info": {
+          "package_name": "com.ugurcangal.onesignalsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Xp_SawwKh6_fQtm31bemVe8QIdU8oDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
